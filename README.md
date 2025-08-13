@@ -56,12 +56,7 @@ Test Case Design • Bug Tracking (JIRA) • Regression & Smoke Testing • Post
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DkBattulaS&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DkBattulaS&layout=compact&theme=dark)
 
-## 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com?user=DkBattulaS&theme=dark&hide_border=true)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Hi+There!+👋;I'm+Deepak+Battula;Data+Analyst+%7C+ML+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=DkBattulaS&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
