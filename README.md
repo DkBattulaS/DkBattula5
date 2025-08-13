@@ -1,7 +1,7 @@
 # Hey! I'm Deepak Battula 👋
 
 🎓 **B.E. Computer Engineering (Honours in AI/ML)**  
-💡 Passionate about **Data Analytics, Machine Learning, and Full-Stack Development**  
+💡 Passionate about **Software Development, Data Analytics, Machine Learning, and Testing **  
 🚀 Loves to build projects that create impact and solve real-world problems
 
 ---
