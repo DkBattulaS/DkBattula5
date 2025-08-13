@@ -7,12 +7,11 @@
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077BS.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E440SF.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURUSERNAME)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOURUSERNAME)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOURUSERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUREMAIL@gmail.com)
-
 
 ---
 
@@ -53,27 +52,26 @@ Test Case Design • Bug Tracking (JIRA) • Regression & Smoke Testing • Post
 
 ---
 
-
-
----
-
 ## 📈 GitHub Stats:
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DkBattulaS&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DkBattulaS&layout=compact&theme=dark)
-
-
 
 ## 🔥 GitHub Streak:
 ![GitHub Streak](https://streak-stats.demolab.com?user=DkBattulaS&theme=dark&hide_border=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Hi+There!+👋;I'm+Deepak+Battula;Data+Analyst+%7C+ML+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
+![Profile views](https://komarev.com/ghpvc/?username=DkBattulaS&label=Profile%20views&color=0e75b6&style=flat)
 
-![Profile views](https://komarev.com/ghpvc/?username=DkBattulaS&label=Profile%20views&color=0e7Sb6&style=flat)
-
-
+---
 
 ## 🚀 Featured Projects:
+- [CartBasket](https://github.com/DkBattulaS/CartBasket) – Full-stack e-commerce with role-based UI and Selenium testing.
+- [Employee Attrition Analysis](https://github.com/DkBattulaS/Employee-Attrition) – Employee attrition prediction using ML models.
+- [Power BI Dashboard](https://github.com/DkBattulaS/PowerBI-Dashboard) – Interactive BI dashboard with KPIs and insights.
 - [Retail Walmart SDA](https://github.com/DkBattulaS/Retail-Walmart--SDA) – Sales data analysis using Python & Power BI.
 - [Heart Disease Prediction Shiny App](https://github.com/DkBattulaS/Heart-Disease-Prediction-Shiny-App) – R Shiny app for heart disease prediction.
 - [Portfolio Website](https://github.com/DkBattulaS/Portfolio) – Personal portfolio built with HTML, CSS, JS.
+
+
+
